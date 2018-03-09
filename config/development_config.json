@@ -1,0 +1,5 @@
+{
+	"APP_PORT": "2000",
+	"LOG_FILE_NAME_PREFIX": "app",
+    "LOGGING_DIRECTORY": "logs"
+}
